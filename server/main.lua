@@ -1,6 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 local ItemList = {
-    ["casinochips"] = 1,
+    ["casinochips"] = 100,
 }
 
 RegisterNetEvent('qb-casino:server:sell', function()
